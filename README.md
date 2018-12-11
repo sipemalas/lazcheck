@@ -1,0 +1,2 @@
+# lazcheck
+ LAZADA VALID MAIL CHECKER
